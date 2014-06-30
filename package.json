@@ -1,0 +1,24 @@
+{
+  "name": "Tic-Tac-Toe",
+  "version": "0.0.0",
+  "description": "Tic-Tac-Toe Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danwoods/Tic-Tac-Toe.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Dan Woodson",
+  "license": "BSD",
+  "readmeFilename": "README.rst",
+  "gitHead": "e3c1ddfa0b146bd3b0f6c6fbc9634a22ffcb3971",
+  "bugs": {
+    "url": "https://github.com/danwoods/Tic-Tac-Toe/issues"
+  }
+}
